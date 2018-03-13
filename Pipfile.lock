@@ -1,0 +1,68 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "5da7af797c659981653315c7aaf95ee9b024141fc9754ca48238b89dca3e8bcf"
+        },
+        "host-environment-markers": {
+            "implementation_name": "cpython",
+            "implementation_version": "3.5.2",
+            "os_name": "posix",
+            "platform_machine": "x86_64",
+            "platform_python_implementation": "CPython",
+            "platform_release": "4.13.0-36-generic",
+            "platform_system": "Linux",
+            "platform_version": "#40~16.04.1-Ubuntu SMP Fri Feb 16 23:25:58 UTC 2018",
+            "python_full_version": "3.5.2",
+            "python_version": "3.5",
+            "sys_platform": "linux"
+        },
+        "pipfile-spec": 6,
+        "requires": {},
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.douban.com/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "cycler": {
+            "hashes": [],
+            "version": "==0.10.0"
+        },
+        "kiwisolver": {
+            "hashes": [],
+            "version": "==1.0.1"
+        },
+        "matplotlib": {
+            "hashes": [],
+            "version": "==2.2.0"
+        },
+        "numpy": {
+            "hashes": [],
+            "version": "==1.14.2"
+        },
+        "pandas": {
+            "hashes": [],
+            "version": "==0.22.0"
+        },
+        "pyparsing": {
+            "hashes": [],
+            "version": "==2.2.0"
+        },
+        "python-dateutil": {
+            "hashes": [],
+            "version": "==2.7.0"
+        },
+        "pytz": {
+            "hashes": [],
+            "version": "==2018.3"
+        },
+        "six": {
+            "hashes": [],
+            "version": "==1.11.0"
+        }
+    },
+    "develop": {}
+}

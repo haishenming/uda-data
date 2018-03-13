@@ -1,0 +1,16 @@
+[[source]]
+
+url = "https://pypi.douban.com/simple"
+name = "pypi"
+verify_ssl = true
+
+
+[packages]
+
+numpy = "*"
+pandas = "*"
+matplotlib = "*"
+
+
+[dev-packages]
+
